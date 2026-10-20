@@ -5,7 +5,7 @@ package.domain = org.dragon
 source.dir = .
 source.include_exts = py
 version = 0.1
-requirements = python3,pygame
+requirements = hostpython3==3.10.14,python3==3.10.14,pygame
 orientation = landscape
 fullscreen = 1
 android.api = 33
